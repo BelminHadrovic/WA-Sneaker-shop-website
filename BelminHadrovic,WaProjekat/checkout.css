@@ -1,0 +1,20 @@
+.itemlist{
+  padding:10px;
+  font-size: 1.5em;
+}
+body {background-color: #aa22aa;}
+
+h4{
+  font-size: 2em;
+}
+h2{
+  font-size: 3em;
+}
+
+.checkoutbtn{
+  background-color:#7b7485;
+  color:#5429e9;
+  text-decoration: none;
+  padding:10px 20px;
+  border-radius: 100px;
+}
